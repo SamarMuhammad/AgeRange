@@ -1,0 +1,58 @@
+﻿@{
+    ViewBag.Title = "DebitSuccess Assignment";
+}
+
+@model Common.Models.Person
+
+<table width="100%">
+    <tr>
+        <td>       
+        @(Html.Kendo().Grid<Common.Models.Person>()
+                .Name("grdPerson")
+                .Columns(columns =>
+                {
+                    columns.Bound(p => p.Id).Hidden(true);
+                    columns.Bound(p => p.FirstName).Width(250).Title("First Name").HeaderHtmlAttributes(new { style = "text-align:center;font-weight: bold;" });
+                    columns.Bound(p => p.LastName).Width(250).Title("Last Name").HeaderHtmlAttributes(new { style = "text-align:center;font-weight: bold;" });
+                    columns.Bound(p => p.Age).Width(100).Title("Age").HeaderHtmlAttributes(new { style = "text-align:center;font-weight: bold;" });                    
+                    columns.Bound(p => p.Description).Width(100).Title("Description").HeaderHtmlAttributes(new { style = "text-align:center;font-weight: bold;" });
+                    
+                    columns.Command(command =>
+                    {
+                        command.Edit().Text(" ").CancelText(" ").UpdateText(" ").HtmlAttributes(new { style = "min-width:20px !important;" });
+                        command.Destroy().Text(" ").HtmlAttributes(new { style = "min-width:20px !important;" });
+
+                    }).Width(65);
+
+                })
+                .ToolBar(toolbar => toolbar.Create().Text("Add Person"))
+                .Editable(editable => editable.Mode(GridEditMode.InLine))
+                .HtmlAttributes(new { style = "height: 600px; !important" })
+                .Scrollable()
+                .Sortable()
+                .Pageable(pageable => pageable
+                .Refresh(true)
+                .PageSizes(true)
+                .ButtonCount(15))
+                .DataSource(dataSource => dataSource
+                    .Ajax()
+                    .Events(events => events.Sync("sync_handler"))
+                    .PageSize(20)
+                    .Sort(a => a.Add("Id").Descending())
+                    .Model(model => model.Id(p => p.Id))
+                    .Read(read => read.Action("LoadPersonList", "Person"))
+                    .Create(update => update.Action("InsertPerson", "Person"))
+                    .Update(update => update.Action("UpdatePerson", "Person"))
+                    .Destroy(update => update.Action("DeletePerson", "Person"))
+                )
+            )
+        </td>
+    </tr>
+</table>
+
+
+<script type="text/javascript">
+    function sync_handler(e) {
+        this.read();
+    }
+</script>

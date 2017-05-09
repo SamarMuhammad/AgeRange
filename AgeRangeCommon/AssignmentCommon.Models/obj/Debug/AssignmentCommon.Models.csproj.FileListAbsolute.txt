@@ -1,0 +1,4 @@
+C:\MyWork\My Projects\AssignmentApp\AssignmentCommon.Models\bin\Debug\AssignmentCommon.Models.dll
+C:\MyWork\My Projects\AssignmentApp\AssignmentCommon.Models\bin\Debug\AssignmentCommon.Models.pdb
+C:\MyWork\My Projects\AssignmentApp\AssignmentCommon.Models\obj\Debug\AssignmentCommon.Models.dll
+C:\MyWork\My Projects\AssignmentApp\AssignmentCommon.Models\obj\Debug\AssignmentCommon.Models.pdb

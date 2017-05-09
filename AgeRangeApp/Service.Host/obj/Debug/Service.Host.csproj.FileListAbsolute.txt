@@ -1,0 +1,14 @@
+C:\MyWork\My Projects\AssignmentApp\Service.Host\bin\Debug\Service.Host.dll
+C:\MyWork\My Projects\AssignmentApp\Service.Host\bin\Debug\Service.Host.pdb
+C:\MyWork\My Projects\AssignmentApp\Service.Host\obj\Debug\Service.Host.dll
+C:\MyWork\My Projects\AssignmentApp\Service.Host\obj\Debug\Service.Host.pdb
+C:\MyWork\My Projects\AssignmentApp\Service.Host\obj\Debug\Service.Host.csprojResolveAssemblyReference.cache
+C:\MyWork\My Projects\AssignmentApp\Service.Host\bin\Debug\AssignmentCommon.Models.dll
+C:\MyWork\My Projects\AssignmentApp\Service.Host\bin\Debug\AssignmentCommon.Models.pdb
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\Service.Host\bin\Debug\Service.Host.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\Service.Host\bin\Debug\Service.Host.pdb
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\Service.Host\bin\Debug\Common.Models.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\Service.Host\bin\Debug\Common.Models.pdb
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\Service.Host\obj\Debug\Service.Host.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\Service.Host\obj\Debug\Service.Host.pdb
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\Service.Host\obj\Debug\Service.Host.csprojResolveAssemblyReference.cache

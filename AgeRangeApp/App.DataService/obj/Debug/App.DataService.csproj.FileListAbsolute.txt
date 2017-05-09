@@ -1,0 +1,27 @@
+C:\MyWork\My Projects\AssignmentApp\App.DataService\bin\Debug\App.DataService.dll
+C:\MyWork\My Projects\AssignmentApp\App.DataService\bin\Debug\App.DataService.pdb
+C:\MyWork\My Projects\AssignmentApp\App.DataService\bin\Debug\App.DataService.Interfaces.dll
+C:\MyWork\My Projects\AssignmentApp\App.DataService\bin\Debug\App.DataService.Interfaces.pdb
+C:\MyWork\My Projects\AssignmentApp\App.DataService\obj\Debug\App.DataService.csprojResolveAssemblyReference.cache
+C:\MyWork\My Projects\AssignmentApp\App.DataService\obj\Debug\App.DataService.dll
+C:\MyWork\My Projects\AssignmentApp\App.DataService\obj\Debug\App.DataService.pdb
+C:\MyWork\My Projects\AssignmentApp\App.DataService\bin\Debug\AssignmentCommon.Models.dll
+C:\MyWork\My Projects\AssignmentApp\App.DataService\bin\Debug\AssignmentCommon.Models.pdb
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.DataService\obj\Debug\App.DataService.csprojResolveAssemblyReference.cache
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.DataService\bin\Debug\App.DataService.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.DataService\bin\Debug\App.DataService.pdb
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.DataService\bin\Debug\App.DataService.Interfaces.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.DataService\bin\Debug\Common.Framework.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.DataService\bin\Debug\Common.Models.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.DataService\bin\Debug\Microsoft.Practices.Unity.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.DataService\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.DataService\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.DataService\bin\Debug\Common.Models.pdb
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.DataService\bin\Debug\Common.Framework.pdb
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.DataService\bin\Debug\App.DataService.Interfaces.pdb
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.DataService\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.DataService\obj\Debug\App.DataService.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.DataService\obj\Debug\App.DataService.pdb
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.DataService\bin\Debug\System.Data.SQLite.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.DataService\bin\Debug\Microsoft.Http.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.DataService\bin\Debug\Microsoft.Http.Extensions.dll

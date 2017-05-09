@@ -1,0 +1,44 @@
+C:\MyWork\My Projects\AssignmentApp\Service.Implement\bin\Service.Implement.dll
+C:\MyWork\My Projects\AssignmentApp\Service.Implement\bin\Service.Implement.pdb
+C:\MyWork\My Projects\AssignmentApp\Service.Implement\bin\Service.Host.dll
+C:\MyWork\My Projects\AssignmentApp\Service.Implement\bin\Service.Host.pdb
+C:\MyWork\My Projects\AssignmentApp\Service.Implement\obj\Debug\Service.Implement.csprojResolveAssemblyReference.cache
+C:\MyWork\My Projects\AssignmentApp\Service.Implement\obj\Debug\Service.Implement.dll
+C:\MyWork\My Projects\AssignmentApp\Service.Implement\obj\Debug\Service.Implement.pdb
+C:\MyWork\My Projects\AssignmentApp\Service.Implement\bin\App.BusinessService.Interfaces.dll
+C:\MyWork\My Projects\AssignmentApp\Service.Implement\bin\Common.Framework.dll
+C:\MyWork\My Projects\AssignmentApp\Service.Implement\bin\Microsoft.Practices.Unity.dll
+C:\MyWork\My Projects\AssignmentApp\Service.Implement\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\MyWork\My Projects\AssignmentApp\Service.Implement\bin\Microsoft.Practices.ServiceLocation.dll
+C:\MyWork\My Projects\AssignmentApp\Service.Implement\bin\App.BusinessService.Interfaces.pdb
+C:\MyWork\My Projects\AssignmentApp\Service.Implement\bin\Common.Framework.pdb
+C:\MyWork\My Projects\AssignmentApp\Service.Implement\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\MyWork\My Projects\AssignmentApp\Service.Implement\bin\App.BusinessService.dll
+C:\MyWork\My Projects\AssignmentApp\Service.Implement\bin\App.BusinessService.pdb
+C:\MyWork\My Projects\AssignmentApp\Service.Implement\bin\App.DataService.Interfaces.dll
+C:\MyWork\My Projects\AssignmentApp\Service.Implement\bin\App.DataService.Interfaces.pdb
+C:\MyWork\My Projects\AssignmentApp\Service.Implement\bin\AssignmentCommon.Models.dll
+C:\MyWork\My Projects\AssignmentApp\Service.Implement\bin\AssignmentCommon.Models.pdb
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\Service.Implement\obj\Debug\Service.Implement.csprojResolveAssemblyReference.cache
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\Service.Implement\bin\Service.Implement.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\Service.Implement\bin\Service.Implement.pdb
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\Service.Implement\bin\App.BusinessService.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\Service.Implement\bin\App.BusinessService.Interfaces.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\Service.Implement\bin\Common.Framework.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\Service.Implement\bin\Common.Models.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\Service.Implement\bin\Service.Host.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\Service.Implement\bin\Microsoft.Practices.Unity.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\Service.Implement\bin\Microsoft.Practices.Unity.Configuration.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\Service.Implement\bin\App.DataService.Interfaces.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\Service.Implement\bin\Microsoft.Practices.ServiceLocation.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\Service.Implement\bin\Common.Models.pdb
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\Service.Implement\bin\Common.Framework.pdb
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\Service.Implement\bin\App.BusinessService.Interfaces.pdb
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\Service.Implement\bin\App.BusinessService.pdb
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\Service.Implement\bin\Service.Host.pdb
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\Service.Implement\bin\App.DataService.Interfaces.pdb
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\Service.Implement\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\Service.Implement\obj\Debug\Service.Implement.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\Service.Implement\obj\Debug\Service.Implement.pdb
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\Service.Implement\bin\Microsoft.Http.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\Service.Implement\bin\Microsoft.Http.Extensions.dll

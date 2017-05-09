@@ -1,0 +1,8 @@
+C:\MyWork\My Projects\AssignmentApp\AssignmentCommon.Models\bin\Debug\AssignmentCommon.Models.dll
+C:\MyWork\My Projects\AssignmentApp\AssignmentCommon.Models\bin\Debug\AssignmentCommon.Models.pdb
+C:\MyWork\My Projects\AssignmentApp\AssignmentCommon.Models\obj\Debug\AssignmentCommon.Models.dll
+C:\MyWork\My Projects\AssignmentApp\AssignmentCommon.Models\obj\Debug\AssignmentCommon.Models.pdb
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\AssignmentCommon.Models\bin\Debug\Common.Models.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\AssignmentCommon.Models\bin\Debug\Common.Models.pdb
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\AssignmentCommon.Models\obj\Debug\Common.Models.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\AssignmentCommon.Models\obj\Debug\Common.Models.pdb

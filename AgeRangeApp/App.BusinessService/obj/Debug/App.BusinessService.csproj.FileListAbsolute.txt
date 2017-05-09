@@ -1,0 +1,41 @@
+C:\MyWork\My Projects\AssignmentApp\App.BusinessService\bin\Debug\App.BusinessService.dll
+C:\MyWork\My Projects\AssignmentApp\App.BusinessService\bin\Debug\App.BusinessService.pdb
+C:\MyWork\My Projects\AssignmentApp\App.BusinessService\bin\Debug\App.BusinessService.Interfaces.dll
+C:\MyWork\My Projects\AssignmentApp\App.BusinessService\bin\Debug\App.BusinessService.Interfaces.pdb
+C:\MyWork\My Projects\AssignmentApp\App.BusinessService\obj\Debug\App.BusinessService.csprojResolveAssemblyReference.cache
+C:\MyWork\My Projects\AssignmentApp\App.BusinessService\obj\Debug\App.BusinessService.dll
+C:\MyWork\My Projects\AssignmentApp\App.BusinessService\obj\Debug\App.BusinessService.pdb
+C:\MyWork\My Projects\AssignmentApp\App.BusinessService\bin\Debug\App.DataService.dll
+C:\MyWork\My Projects\AssignmentApp\App.BusinessService\bin\Debug\App.DataService.Interfaces.dll
+C:\MyWork\My Projects\AssignmentApp\App.BusinessService\bin\Debug\Common.Framework.dll
+C:\MyWork\My Projects\AssignmentApp\App.BusinessService\bin\Debug\Microsoft.Practices.Unity.dll
+C:\MyWork\My Projects\AssignmentApp\App.BusinessService\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\MyWork\My Projects\AssignmentApp\App.BusinessService\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\MyWork\My Projects\AssignmentApp\App.BusinessService\bin\Debug\App.DataService.Interfaces.pdb
+C:\MyWork\My Projects\AssignmentApp\App.BusinessService\bin\Debug\App.DataService.pdb
+C:\MyWork\My Projects\AssignmentApp\App.BusinessService\bin\Debug\Common.Framework.pdb
+C:\MyWork\My Projects\AssignmentApp\App.BusinessService\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\MyWork\My Projects\AssignmentApp\App.BusinessService\bin\Debug\AssignmentCommon.Models.dll
+C:\MyWork\My Projects\AssignmentApp\App.BusinessService\bin\Debug\AssignmentCommon.Models.pdb
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.BusinessService\obj\Debug\App.BusinessService.csprojResolveAssemblyReference.cache
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.BusinessService\bin\Debug\App.BusinessService.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.BusinessService\bin\Debug\App.BusinessService.pdb
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.BusinessService\bin\Debug\App.BusinessService.Interfaces.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.BusinessService\bin\Debug\App.DataService.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.BusinessService\bin\Debug\App.DataService.Interfaces.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.BusinessService\bin\Debug\Common.Framework.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.BusinessService\bin\Debug\Common.Models.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.BusinessService\bin\Debug\Microsoft.Practices.Unity.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.BusinessService\bin\Debug\System.Data.SQLite.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.BusinessService\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.BusinessService\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.BusinessService\bin\Debug\Common.Models.pdb
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.BusinessService\bin\Debug\Common.Framework.pdb
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.BusinessService\bin\Debug\App.BusinessService.Interfaces.pdb
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.BusinessService\bin\Debug\App.DataService.Interfaces.pdb
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.BusinessService\bin\Debug\App.DataService.pdb
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.BusinessService\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.BusinessService\obj\Debug\App.BusinessService.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.BusinessService\obj\Debug\App.BusinessService.pdb
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.BusinessService\bin\Debug\Microsoft.Http.dll
+E:\MyProject\AgeRangeAssignmentComplete\AgeRangeAssignment\AgeRangeApp\App.BusinessService\bin\Debug\Microsoft.Http.Extensions.dll
